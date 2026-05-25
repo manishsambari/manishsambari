@@ -5,6 +5,7 @@
 <a href="https://manishsambari.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=84CC16&width=520&lines=Full-Stack+Software+Engineer;React+%E2%80%A2+Next.js+%E2%80%A2+Node;writing+code+that+ships;status%3A+200+OK" alt="typing" />
 </a>
+
 ```js
 const manish = {
   job:    "writing code that ships",
