@@ -18,6 +18,9 @@ const manish = {
 
 ---
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishsambari&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishsambari&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishsambari&theme=gruvbox" />
+</p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishsambari&theme=gruvbox" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishsambari&theme=gruvbox" height="160"/>
 </p>
