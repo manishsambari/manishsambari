@@ -1,18 +1,154 @@
-# 💫 About Me:
-Hi there 👋<br><br>I'm Manish Sambari, a Full Stack Developer who loves building fast, scalable, and user-friendly applications. I’ve worked across Python, MERN stack, and cloud tools, delivering real projects—from e-commerce systems to AI-powered platforms and automation bots.<br><br>Currently exploring Next.js, TypeScript, and Golang to build even faster and more scalable applications.<br><br>I enjoy solving problems, optimizing performance, and turning ideas into polished products. Always learning, always building. 🚀
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  This README is designed for the special profile repo:           ║
+  ║  github.com/manishsambari/manishsambari → README.md              ║
+  ║  Copy this file's contents into that repo's README.md.           ║
+  ╚══════════════════════════════════════════════════════════════════╝
+-->
 
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  $ whoami                                                            │
+│  > Manish Sambari · Full-Stack Software Engineer                     │
+│  > Mumbai, India · sambarimanish@gmail.com                           │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manish.sambari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manishsambari/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manish_exe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sambarimanish@gmail.com) 
+### `> cat about.md`
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manishsambari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manishsambari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manishsambari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Full-Stack Software Engineer building **production-grade web applications**
+across the **JavaScript / TypeScript** ecosystem. Specializes in **React**,
+**Next.js**, **Node.js**, and **RESTful API design** — with a track record
+of reducing API latency, improving frontend performance, and shipping
+scalable architectures in fast-paced environments.
+
+```diff
++ currently  → Full-Stack Developer Intern @ KVAR Technologies (Feb 2026 – Present)
++ shipping  → LeadLens · B2B lead automation with heuristic scoring
+~ exploring → Next.js 15 · TypeScript deep-dive · Golang
+! open to   → Full-time roles · Freelance · Collaborations
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manishsambari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `> ls ./connect`
+
+[![Portfolio](https://img.shields.io/badge/portfolio-_manish_sambari-A3E635?style=for-the-badge&logo=vercel&logoColor=black)](https://manishsambari.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-_manishsambari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishsambari/)
+[![X](https://img.shields.io/badge/x-_manish__exe-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/manish_exe)
+[![Instagram](https://img.shields.io/badge/instagram-_manish.sambari-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manish.sambari)
+[![Email](https://img.shields.io/badge/email-_sambarimanish-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sambarimanish@gmail.com)
+
+---
+
+### `> cat work_experience.log`
+
+```yaml
+[CURRENT] KVAR Technologies Pvt. Ltd.    Feb 2026 – Present
+  role: Full Stack Developer Intern
+  stack: [React.js, Node.js, PostgreSQL, EJS-migration]
+  shipped:
+    - Production Monitoring System (RBAC across 7+ user roles)
+    - Legacy EJS → React.js migration · -70% API latency
+    - LeadLens · B2B lead automation w/ IndiaMart API + heuristic scoring
+
+[2025/11] NullClass                       Jun 2025 – Nov 2025
+  role: Full Stack Developer Intern (Remote)
+  stack: [MERN, JWT, MongoDB]
+  shipped: course-selling platform backend + RBAC auth
+
+[2025/03] Dejorix Tech                    Jan 2025 – Mar 2025
+  role: Frontend Developer Intern
+  stack: [React.js, Tailwind, Three.js]
+  shipped: +25% load perf · +40% engagement · 60 FPS 3D scenes
+```
+
+---
+
+### `> ls -la ./projects --sort=featured`
+
+| project | what it does | stack |
+| --- | --- | --- |
+| **LeadLens** | B2B lead automation · IndiaMart API · heuristic scoring · email sequencing | React · Node · PostgreSQL |
+| **CourseShip** | Full-stack e-learning platform · Stripe · Cloudinary · JWT + Zod auth | MERN · Stripe |
+| **FinSight** | AI finance platform · Gemini receipt scanning · Prisma + Supabase | Next.js · Gemini AI · Shadcn |
+| **BrowseAndBuy** | Student book marketplace · real-time buyer↔seller chat | React · Socket.io · MongoDB |
+| **Discord Bot Ecosystem** | Multi-purpose bot · 400+ commands · moderation, economy, utilities | Node.js · Discord.js · OpenAI |
+| **Crowdfunding Marketplace** | Decentralized fundraising via Ethereum smart contracts | Solidity · Hardhat · React |
+
+---
+
+### `> tree ./stack`
+
+```
+languages/    JavaScript · TypeScript · Python · C++ · SQL · Go (learning)
+frontend/     React · Next.js · Tailwind CSS · Three.js · Shadcn UI
+backend/      Node.js · Express.js · REST APIs · JWT
+databases/    PostgreSQL · MongoDB · MySQL · Firebase · Supabase
+devops/       Git · AWS · Vercel · Render · Docker · Postman
+ai-tools/     Gemini AI · OpenAI · Prisma
+```
+
+#### badges
+
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/react-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### `> stats --user manishsambari`
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=manishsambari&theme=dark&hide_border=true&bg_color=000000&title_color=A3E635&icon_color=FBBF24&text_color=ffffff&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishsambari&theme=dark&hide_border=true&background=000000&ring=A3E635&fire=FBBF24&currStreakLabel=A3E635" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishsambari&theme=dark&hide_border=true&bg_color=000000&title_color=A3E635&text_color=ffffff&layout=compact&langs_count=10" />
+
+---
+
+### `> cat achievements.log`
+
+```
+[1ST_RUNNER_UP]  Electrowiz 2025
+[TOP_5_FINALIST] RUBIX 2024
+[PARTICIPANT]    Devfolio Hackathon
+```
+
+---
+
+### `> tail -f /var/log/now.log`
+
+```
+$ Building production-grade software at KVAR Technologies.
+$ Writing TypeScript like prose.
+$ Reading source code over docs.
+$ Always shipping, always learning.
+█
+```
+
+<sub><i>// last updated · automatically reflects the live portfolio at manishsambari.vercel.app</i></sub>
